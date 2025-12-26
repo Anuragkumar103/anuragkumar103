@@ -2,6 +2,7 @@
 Hi 👋, I'm Anurag Kumar
 </h1>
 
+
 <h3 align="center">
 📊 Data Analyst | Business Analytics | Python | SQL | Power BI | Advanced Excel
 </h3>
