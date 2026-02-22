@@ -64,7 +64,7 @@
 
 <p align="left">
 	<a href="mailto:luckyanurag9045@gmial.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
-	<a href="https://www.linkedin.com/in/anurag kumar/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/anurag-kumar-1b967729b/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/Anuragkumar103"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
 	
 
