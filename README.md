@@ -134,11 +134,11 @@
 
 
 
-If you have any questions about front-end web development, feel free to contact on <a href="mailto:chandannekya@gmail.com"> Email</a> .
+If you have any questions about front-end web development, feel free to contact on <a href="mailto:luckyanurag9045@gmail.com"> Email</a> .
 
 
 
-You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/chandannekya/">LinkedIn</a> 
+You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/anurag-kumar-1b967729b/">LinkedIn</a> 
 
 
 
@@ -152,7 +152,7 @@ You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/chanda
 
 
 
-**<a href="https://github.com/Anuragkumar103 "><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/Anuragkumar103"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 
 
