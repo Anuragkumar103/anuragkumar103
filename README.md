@@ -41,7 +41,7 @@
 
 💻 I am a self taught Full Stack Developer
 
-📚 I m pursing a Bachelors in Computer Science from the University of Lucknow 
+📚 I m pursing a Bachelors in Computer Science from Dr. Shakuntala Misra National Rehabilitation University, Lucknow 
 
 📝 I have a strong interest in Web3 and Blockchain
 
