@@ -1,118 +1,169 @@
-<h1 align="center">
-Hi 👋, I'm Anurag Kumar
+
+
+
+<h1 align = "center">Hi, I'm Anurag kumar 
+<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+
+
+
+</a></h1>
+
 </h1>
+<p align="center">
+<img align="center" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
+</p>
+<div align="center">
+  
+![counter](https://komarev.com/ghpvc/?username=chandannekya)
 
+</div>
 
-<h3 align="center">
-📊 Data Analyst | Business Analytics | Python | SQL | Power BI | Advanced Excel
-</h3>
+<br/>
 
 <p align="center">
-I am passionate about analyzing data, building dashboards, and solving real-world business problems using data-driven approaches.
+
+<a href="https://github.com/Anuragkumar103">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+
+</a>
+
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Business+Analytics+%7C+Advanced+Excel;Frontend+Basics+%7C+Problem+Solving;Always+Learning+New+Things&center=true&width=520&height=45">
-</p>
 
----
 
-## 🔗 Connect with me
+<hr>
+
+
+<div style="display: flex; align-items: center;">
+<pre>
+
+💻 I am a self taught Full Stack Developer
+
+📚 I m pursing a Bachelors in Computer Science from the University of Lucknow 
+
+📝 I have a strong interest in Web3 and Blockchain
+
+🔭 Working on web Development 
+	
+🌟 Main languages: Java,Javascript
+
+🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1_5E9To3ztrm8D4HTng3rf-1d_YEIY3Cd/view?usp=sharing">MY RESUME.</a>
+
+</pre>
+
+</div>
+<hr>
+
+
+
+<h3 align="left">  Connect with me 🤝</h3>
+
+
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anuraag-kumar-1b967729b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
+	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/chadannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
+	
 
-<a href="https://github.com/Anuragkumar103" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/anuraag_k_10" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+	
 </p>
 
----
 
-## 👨‍💻 About Me
 
-- 📊 Aspiring **Data Analyst & Business Analyst**
-- 🐍 Strong in **Python for Data Analysis**
-- 🗄 Experienced with **SQL & Database Management Systems**
-- 📈 Skilled in **Power BI Dashboards & Reporting**
-- 📑 Advanced knowledge of **MS Excel (Pivot, VLOOKUP, KPIs)**
-- 🌐 Familiar with **Frontend (HTML, CSS, Basics of JS)**
-- 🧠 Good **Problem-Solving & Analytical Thinking**
-- 🎯 Looking for **Internship / Entry-level Data Analyst roles**
 
----
 
-## 🧠 Skills & Technologies
+<p align="left"> <h3 align="left">👨‍💻 Programming Languages and Tools</h3>
 
-### 📊 Data Analytics & Business Intelligence
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- KPI & Business Metrics  
-- Dashboard Design & Insights  
 
-### 🛠 Tools & Languages
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/power-bi.png"/><br>Power BI
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/><br>Excel
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
-</tr>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,express,c,java,py,mongodb,nodejs,npm,postman,vite,figma,git,)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+
+</br>
+
+
+
+<hr>
+
+
+
+
+<br/>
+
+<summary><b>⚡Stats</b></summary>
+
+<br/>
+
+
+
+
+![chandannekya's Stats](https://github-readme-stats.vercel.app/api?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=chandannekya&theme=tokyonight&hide_border=false)
+
+![chandannekya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+</p>
+
+<br/>
+
+<hr>
+
+[![An image of @chandannekya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandannekya)](https://holopin.io/@chandannekya)
+<hr>
+<table style="border: none">
+
+  <tr>
+
+  <td width="50%" valign="top">
+
+
+
+## Let's Work on Your Project Together!
+
+
+
+If you have any questions about front-end web development, feel free to contact on <a href="mailto:chandannekya@gmail.com"> Email</a> .
+
+
+
+You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/chandannekya/">LinkedIn</a> 
+
+
+
+  </td>
+
+  <td width="50%" valign="top">
+
+
+
+## It's not perfect, isn't it?
+
+
+
+**<a href="https://github.com/Chandannekya "><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+
+– Elon Musk
+
+
+
+  </td>
+
+  </tr>
+
 </table>
-
----
-
-## 🐍 Python Libraries
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
----
-
-## 📂 Featured Projects (Add these repos)
-- 📊 **Power BI Business Dashboard**
-- 🐍 **Python Data Cleaning & EDA**
-- 🗄 **SQL Business Analysis Queries**
-- 📈 **Advanced Excel KPI Dashboard**
-- 🌐 **Frontend Mini Project (HTML/CSS)**
-
----
-
-
-
----
-
-## 🎯 Career Objective
-To work as a **Data Analyst / Business Analyst** where I can use **Python, SQL, Power BI, and Excel** to transform data into meaningful insights and support business decisions.
-
----
-
-## 👁️ Profile Views
-<img src="https://komarev.com/ghpvc/?username=Anuragkumar103&style=for-the-badge&color=brightgreen"/>
