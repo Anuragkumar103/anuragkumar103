@@ -79,7 +79,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,,react,java,py,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,react,git,)](https://skillicons.dev)
 
 
 
