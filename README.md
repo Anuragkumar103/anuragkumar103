@@ -15,7 +15,7 @@
 </p>
 <div align="center">
   
-![counter](https://komarev.com/ghpvc/?username=chandannekya)
+
 
 </div>
 
@@ -49,7 +49,7 @@
 	
 🌟 Main languages: Java,Javascript
 
-🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1_5E9To3ztrm8D4HTng3rf-1d_YEIY3Cd/view?usp=sharing">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b> this is <a </a>
 
 </pre>
 
@@ -107,11 +107,6 @@
 
 
 
-![chandannekya's Stats](https://github-readme-stats.vercel.app/api?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=chandannekya&theme=tokyonight&hide_border=false)
-
-![chandannekya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </p>
@@ -120,8 +115,7 @@
 
 <hr>
 
-[![An image of @chandannekya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandannekya)](https://holopin.io/@chandannekya)
-<hr>
+
 <table style="border: none">
 
   <tr>
