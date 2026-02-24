@@ -43,11 +43,9 @@
 
 📚 I m pursing a Bachelors in Computer Science from Dr. Shakuntala Misra National Rehabilitation University, Lucknow 
 
-📝 I have a strong interest in Web3 and Blockchain
-
 🔭 Working on web Development 
 	
-🌟 Main languages: Java,Javascript
+🌟 Main languages: Java,Python
 
 🤔 I’m currently open for: <b>An Internship</b> this is <a </a>
 
