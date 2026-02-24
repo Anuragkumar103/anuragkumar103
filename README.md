@@ -77,7 +77,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=,java,,,py,,,html,,,css,,,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,java,,py,,js,,html,,css,,git,)](https://skillicons.dev)
 
 
 
