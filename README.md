@@ -13,7 +13,7 @@
 <p align="center">
 <img align="center" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
 </p>
-<div align="center">
+<div align="center"> 
   
 
 
@@ -122,7 +122,7 @@
 
 
 
-## Let's Work on Your Project Together!
+## Let's Work on Your Project Together! 
 
 
 
@@ -140,7 +140,7 @@ You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/anurag
 
 
 
-## It's not perfect, isn't it?
+## It's not perfect, isn't it?  
 
 
 
