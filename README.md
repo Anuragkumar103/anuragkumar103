@@ -71,7 +71,7 @@
 
 
 
-
+     
 
 <p align="left"> <h3 align="left">👨‍💻 Programming Languages and Tools</h3>
 
@@ -134,7 +134,7 @@ You can hire me as a freelancer on <a   href="https://www.linkedin.com/in/anurag
 
 
 
-  </td>
+  </td> 
 
   <td width="50%" valign="top">
 
