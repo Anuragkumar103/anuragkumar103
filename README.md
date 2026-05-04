@@ -13,7 +13,7 @@
 <p align="center">
 <img align="center" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
 </p>
-<div align="center"> 
+<div align="center">  
   
 
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-<p align="center">
+<p align="center"> 
 
 <a href="https://github.com/Anuragkumar103">
 
