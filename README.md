@@ -77,7 +77,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=,java,py,js,html,css,git,gcp,netlify,aws,mysql,github,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,java,py,js,html,css,git,gcp,netlify,aws,mysql,postgres,github,vscode,)](https://skillicons.dev)
 
 
 
